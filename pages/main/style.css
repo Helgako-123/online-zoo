@@ -2,7 +2,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;
 margin: 0;
 	padding: 0;}
 html {width: 1600px;
-	background-image:url('Images/flower_foto.jpg'), url('Images/palm_foto.jpg'), url('Images/strelitzia.jpg'), url('Images/leav_foto.jpg');
+	background-image:url('../../images/flower_foto.jpg'), url('../../images/palm_foto.jpg'), url('../../images/strelitzia.jpg'), url('../../images/leav_foto.jpg');
 	background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
 	background-position: right 18%, left 51.5%, right 53.5%, right 94.5%;
 }

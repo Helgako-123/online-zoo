@@ -11,7 +11,7 @@ html {width: 1600px;
 /* Navbar */
 
 header {
-	background-image:url('Images/Giant_Panda.jpg');
+	background-image:url('../../images/Giant_Panda.jpg');
 }
 .navbar {
 	background: #000000;
